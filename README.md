@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BC39F7&lines=Hi~I+am+Bohan)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BC39F7&lines=Hi~I+am+Hank)](https://git.io/typing-svg)
 
 #### skills ✨
 ![](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
