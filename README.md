@@ -2,26 +2,26 @@
 
 #### skills ✨
 <a href="https://go.dev/" target="_blank">
-      <img src="https://openupthecloud.com/wp-content/uploads/2020/01/Golang.png" alt="golang" width="40" height="40"/> 
+      <img src="https://openupthecloud.com/wp-content/uploads/2020/01/Golang.png" alt="golang" width="55" height="55"/> 
 </a>
 <a href="https://www.python.org/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="ptyhon" width="40" height="40"/> 
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="ptyhon" width="55" height="55"/> 
 </a>
 <a href="https://nodejs.org/zh-tw/" target="_blank">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="node.js" width="40" height="40"/> 
+      <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="node.js" width="55" height="55"/> 
 </a>
 <a href="https://www.php.net/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="php" width="40" height="40"/> 
+      <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="php" width="55" height="55"/> 
 </a>
 
 <a href="" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="40" height="40"/> 
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="55" height="55"/> 
 </a>
 <a href="" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="40" height="40"/> 
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="55" height="55"/> 
 </a>
 <a href="" target="_blank">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5f3xgzW_K_3hXojCy4SjGW_fqtOJAwudZGA&usqp=CAU" alt="js" width="40" height="40"/> 
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5f3xgzW_K_3hXojCy4SjGW_fqtOJAwudZGA&usqp=CAU" alt="js" width="55" height="55"/> 
 </a>
 
 
