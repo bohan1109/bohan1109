@@ -23,6 +23,21 @@
 <a href="" target="_blank">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5f3xgzW_K_3hXojCy4SjGW_fqtOJAwudZGA&usqp=CAU" alt="js" width="55" height="55"/> 
 </a>
+<a href="" target="_blank">
+      <img src="https://cdn2.iconfinder.com/data/icons/programming-50/64/206_programming-sql-data-database-512.png" alt="sql" width="55" height="55"/> 
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-226029.png" alt="mongodb" width="55" height="55"/> 
+</a>
+<a href="https://redis.io/" target="_blank">
+      <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" alt="redis" width="55" height="55"/> 
+</a>
+<a href="https://grpc.io/" target="_blank">
+      <img src="https://cncf-branding.netlify.app/img/projects/grpc/icon/color/grpc-icon-color.png" alt="grpc" width="55" height="55"/> 
+</a>
+
+
+
 
 
 
