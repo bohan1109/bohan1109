@@ -1,6 +1,10 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BC39F7&lines=Hi~I+am+Hank)](https://git.io/typing-svg)
 
 #### skills ✨
+<a href="https://go.dev/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="golang" width="40" height="40"/> 
+</a>
+
 ![](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=Javascript&)
 ![](https://camo.githubusercontent.com/02914afc1f51d55c8acac01c200a410efd74fffdff325678f6df6c22ae68a7ee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242343f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465)
